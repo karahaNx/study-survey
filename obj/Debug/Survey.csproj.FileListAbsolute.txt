@@ -1,0 +1,7 @@
+C:\Users\Karahan\Google Drev\IT-Supporter - Programmering\Visual Studio\Survey\obj\Debug\Survey.csprojAssemblyReference.cache
+C:\Users\Karahan\Google Drev\IT-Supporter - Programmering\Visual Studio\Survey\obj\Debug\Survey.csproj.CoreCompileInputs.cache
+C:\Users\Karahan\Google Drev\IT-Supporter - Programmering\Visual Studio\Survey\bin\Debug\Survey.exe.config
+C:\Users\Karahan\Google Drev\IT-Supporter - Programmering\Visual Studio\Survey\bin\Debug\Survey.exe
+C:\Users\Karahan\Google Drev\IT-Supporter - Programmering\Visual Studio\Survey\bin\Debug\Survey.pdb
+C:\Users\Karahan\Google Drev\IT-Supporter - Programmering\Visual Studio\Survey\obj\Debug\Survey.exe
+C:\Users\Karahan\Google Drev\IT-Supporter - Programmering\Visual Studio\Survey\obj\Debug\Survey.pdb
